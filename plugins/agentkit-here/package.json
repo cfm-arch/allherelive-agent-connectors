@@ -1,0 +1,13 @@
+{
+  "name": "@here/agentkit-actions",
+  "version": "1.0.0",
+  "description": "Coinbase AgentKit action provider for //HERE: discover offers, run a free action, request x402 payment requirements and inspect confirmed receipts.",
+  "type": "module",
+  "main": "src/index.ts",
+  "keywords": ["coinbase", "agentkit", "cdp", "x402", "usdc", "base", "agents", "here"],
+  "license": "MIT",
+  "peerDependencies": {
+    "@coinbase/agentkit": "*",
+    "zod": "^3"
+  }
+}
