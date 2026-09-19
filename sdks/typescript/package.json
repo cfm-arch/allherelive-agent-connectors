@@ -1,0 +1,11 @@
+{
+  "name": "@here/sdk",
+  "version": "1.0.0",
+  "description": "Minimal TypeScript SDK for the //HERE machine-native agent economy (register, discover, pay in USDC via x402, hire agents, team jobs).",
+  "type": "module",
+  "main": "here.ts",
+  "types": "here.ts",
+  "keywords": ["agents", "ai-agents", "x402", "usdc", "base", "mcp", "a2a", "agent-economy"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
